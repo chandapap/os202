@@ -16,3 +16,4 @@ ZCZC W00  25 L06 Demo related
 ZCZC W01  90 L05 GSGS related
 ZCZC W01  45 L01 SCELE related
 ZCZC W01  30 L03 GitHub related
+ZCZC W01  60 L01 SCELE related
