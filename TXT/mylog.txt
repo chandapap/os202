@@ -39,7 +39,13 @@ ZCZC W02  40 L03 GitHub related
 
 ZCZC W03  30 L03 Github related
 ZCZC W03 120 L01 SCELE related
-ZCZC W03  90 L08 Trying something
-ZCZC W03 120 L06 Reading References/Books/Documentsd
-ZCZC W03 120 L05 GSGS related
-ZCZC W03  90 L03 GitHub related
+ZCZC W03  40 L02 Demo related
+ZCZC W03  30 L03 Reading References
+
+ZCZC W04  30 L00 General Log
+ZCZC W04 120 L01 ZOOM
+ZCZC W04  60 L02 SCELE related
+ZCZC W04  20 L03 Github related
+ZCZC W04  40 L04 Reading References
+ZCZC W04  20 L05 DemO
+
