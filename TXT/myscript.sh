@@ -1,15 +1,24 @@
-ls => list directory content => ls -a
-cd => change directory => cd/example
-cp => copy file => cp source destination
-rm => remove file => rm file
-mv => move file => mv filefrom fileto
-mkdir => make directory => mkdir directoryname
-rmdir => remove directory => rmdir directoryname
-cat => read file => cat filename
-grep => search string in file => grep word file
-top => displat system task => top
-chmod => change access => chmod 777
-chown => change owner => chown user filename
-sudo => use root permission => sudo other command
-tar => tar command => tar cf (archive to tar), tar tf (list .tar file), tar xf (extract tar file)
-date => see date and time on system
+#!/bin/bash
+# Chandra Rahmansyah
+# Mon 26 oct 2020 3:29:55 PM WIB
+
+FILES="my*.txt my*.sh"
+SHA="SHA256SUM"
+
+echo "rm -f $SHA $SHa.asc"
+rm -f $SHA $SHA.asc
+
+echo "sha256sum $FILES > $SHA"
+sha256sum $FILES > $SHA
+
+echo "sha256sum -c $SHA"
+sha256sum -c $SHA
+
+echo "gpg -o $SHA.asc -a -sb $SHA"
+gpg -o $SHA.asc -a -sb $SHA
+
+echo "gpg --verify $SHA.asc $SHA"
+gpg --verify $SHA.asc $SHA
+
+exit 0
+
