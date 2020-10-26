@@ -49,3 +49,10 @@ ZCZC W04  20 L03 Github related
 ZCZC W04  40 L04 Reading References
 ZCZC W04  20 L05 DemO
 
+ZCZC W05  30 L00 General Log
+ZCZC W05  80 L01 Zoom
+ZCZC W05  90 L02 Read OSC10 Chapter 10
+ZCZC W05  20 L03 Github related
+ZCZC W05  40 L04 Reading Reference
+ZCZC W05  50 L05 GSGS related
+ZCZC W05  25 L06 Demo
