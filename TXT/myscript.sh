@@ -1,6 +1,6 @@
 #!/bin/bash
 # Chandra Rahmansyah
-# Mon 26 oct 2020 3:29:55 PM WIB
+# Mon 16 Nov 2020 3:36:55 PM WIB
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
