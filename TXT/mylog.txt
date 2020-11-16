@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+#Week00
 ZCZC W00  30 L03 Github related
 ZCZC W00 120 L01 SCELE related
 ZCZC W00  90 L08 Trying something
@@ -14,6 +15,7 @@ ZCZC W00 120 L06 Reading References/Books/Documents
 ZCZC W00  25 L06 Demo related
 ZCZC W00  40 L03 GitHub related
 
+#Week01
 ZCZC W01  10 L00 General Log
 ZCZC W01  60 L01 SCELE related
 ZCZC W01  40 L03 GitHub related
@@ -25,6 +27,7 @@ ZCZC W01  45 L01 SCELE related
 ZCZC W01  30 L03 GitHub related
 ZCZC W01  60 L01 SCELE related
 
+#Week02
 ZCZC W02  30 L03 Github related
 ZCZC W02 120 L01 SCELE related
 ZCZC W02  90 L08 Trying something
@@ -36,12 +39,13 @@ ZCZC W02  25 L06 Demo related
 ZCZC W02  90 L05 GSGS related
 ZCZC W02  40 L03 GitHub related
 
-
+#Week03
 ZCZC W03  30 L03 Github related
 ZCZC W03 120 L01 SCELE related
 ZCZC W03  40 L02 Demo related
 ZCZC W03  30 L03 Reading References
 
+#Week04
 ZCZC W04  30 L00 General Log
 ZCZC W04 120 L01 ZOOM
 ZCZC W04  60 L02 SCELE related
@@ -49,6 +53,7 @@ ZCZC W04  20 L03 Github related
 ZCZC W04  40 L04 Reading References
 ZCZC W04  20 L05 DemO
 
+#Week05
 ZCZC W05  30 L00 General Log
 ZCZC W05  80 L01 Zoom
 ZCZC W05  90 L02 Read OSC10 Chapter 10
@@ -56,3 +61,24 @@ ZCZC W05  20 L03 Github related
 ZCZC W05  40 L04 Reading Reference
 ZCZC W05  50 L05 GSGS related
 ZCZC W05  25 L06 Demo
+
+#Week06
+ZCZC W06  15 L00 General Log
+ZCZC W06  10 L01 Scele related
+ZCZC W06 100 L02 Zoom related
+ZCZC W06  40 L07 Demo related
+ZCZC W06  60 L09 AsDos : asking
+ZCZC W06  10 L11 Assignment #1
+ZCZC W06  15 L12 Assignment #2
+ZCZC W06  15 L13 Assignment #3
+ZCZC W06  50 L14 Assignment #4
+ZCZC W06  10 L15 Assignment #5
+ZCZC W06  80 L16 Assignment #6
+ZCZC W06  15 L17 Assignment #7
+ZCZC W06   5 L18 Assignment #8
+ZCZC W06  15 L19 Assignment #9
+ZCZC W06  15 L20 Assignment #10
+ZCZC W06  20 L20 Assignment #11
+ZCZC W06  60 L22 Youtube: study Process & Thread
+ZCZC W06  30 L08 Trying something
+ZCZC W06  50 L26 Movie: relax
