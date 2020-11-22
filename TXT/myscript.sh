@@ -1,11 +1,11 @@
 #!/bin/bash
-# Chandra Rahmansyah
-# Mon 16 Nov 2020 3:36:55 PM WIB
+# Chandapap
+# Tue 13 Nov 2020 10:37:14 AM WIB
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
-echo "rm -f $SHA $SHa.asc"
+echo "rm -f $SHA $SHA.asc"
 rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
@@ -22,3 +22,5 @@ gpg --verify $SHA.asc $SHA
 
 exit 0
 
+# Mon Sep 28 21:05:04 WIB 2020
+# Tue 29 Sep 2020 11:02:39 AM WIB
