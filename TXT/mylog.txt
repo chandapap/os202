@@ -104,3 +104,24 @@ ZCZC W07  50 L09 AsDos : asking
 ZCZC W07  40 L08 Trying something
 ZCZC W07  60 L22 Youtube: study semaphore
 ZCZC W07  50 L26 Movie: relax
+
+#Week08
+ZCZC W08  10 L00 General related
+ZCZC W08   5 L01 Scele related
+ZCZC W08 120 L02 Zoom related
+ZCZC W08  45 L07 Demo related
+ZCZC W08   5 L11 Assignment #1
+ZCZC W08  30 L12 Assignment #2
+ZCZC W08  25 L13 Assignment #3
+ZCZC W08   5 L14 Assignment #4
+ZCZC W08 100 L15 Assignment #5
+ZCZC W08  40 L16 Assignment #6
+ZCZC W08  30 L17 Assignment #7
+ZCZC W08  15 L18 Assignment #8
+ZCZC W08  10 L19 Assignment #9
+ZCZC W08  15 L20 Assignment #10
+ZCZC W08  15 L20 Assignment #11
+ZCZC W08  40 L08 Trying Something
+ZCZC W08  90 L09 AsDos : asking
+ZCZC W08  60 L22 Youtube: study scheduling
+ZCZC W08  60 L26 Movie : relax
