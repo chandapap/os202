@@ -1,6 +1,6 @@
 #!/bin/bash
 # Chandapap
-# Tue 29 Nov 2020 09:07:14 PM WIB
+# Mon 07 Des 2020 10:05:14 PM WIB
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
