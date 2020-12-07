@@ -125,3 +125,23 @@ ZCZC W08  40 L08 Trying Something
 ZCZC W08  90 L09 AsDos : asking
 ZCZC W08  60 L22 Youtube: study scheduling
 ZCZC W08  60 L26 Movie : relax
+
+#Week09
+ZCZC W09  15 L00 General Log
+ZCZC W09  10 L01 Scele relatd
+ZCZC W09  50 L02 Zoom related
+ZCZC W09  50 L07 Demo related
+ZCZC W09  10 L11 Assignment #1
+ZCZC W09  15 L12 Assignment #2
+ZCZC W09  20 L13 Assignment #3
+ZCZC W09  10 L14 Assignment #4
+ZCZC W09  60 L15 Assignment #5
+ZCZC W09   5 L16 Assignment #6
+ZCZC W09  20 L17 Assignment #7
+ZCZC W09  30 L18 Assignment #8
+ZCZC W09  15 L19 Assignment #9
+ZCZC W09  40 L20 Assignment #10
+ZCZC W09  20 L20 Assignment #11
+ZCZC W09  80 L09 AsDos : asking
+ZCZC W09  60 L22 Youtube : wathcing tutorial
+ZCZC W09  50 L08 Trying something
